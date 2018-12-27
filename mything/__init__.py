@@ -1,2 +1,2 @@
-from mything.foo import Foo
-from mything.bar import my_function, other_function
+from .foo import Foo
+from .bar import my_function, other_function
